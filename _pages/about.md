@@ -14,7 +14,7 @@ I also go by `Carl Zhang` (nickname: `LittleHealth`).
 # About me
 I am a Ph.D. candidate in the [School of Software Engineering](https://www.thss.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/). Prior to that, I completed my M.S. and B.S. in the School of Software Engineering at Tsinghua University.
 
-My research focuses on: (1) database systems, (2) distributed storage/consensus, and (3) data science agents. I am interested in building reliable end-to-end analytics on real-world data stacks, especially at the intersection of learned data management and intelligent agents.
+My research focuses on: (1) time series database, (2) distributed storage/consensus, and (3) data science agents.
 
 ## Publications
 + Xiaojian Zhang, Zhiheng Liu, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang: [Deferred Flushing for Out-of-Order Arrivals in
