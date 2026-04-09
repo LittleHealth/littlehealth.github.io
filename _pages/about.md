@@ -39,7 +39,7 @@ Apache IoTDB.](https://icde2026.github.io/accepted-papers.html) ICDE 2026
 
 ## Projects
 
-+ [AgentScope: Data Profiling](https://github.com/agentscope-ai/agentscope-samples/pull/110) 
++ [AgentScope](https://github.com/agentscope-ai/agentscope-samples/pull/110): Data Profiling
   + Designed an LLM-oriented data profiling framework that transforms heterogeneous data into agent-consumable schemas, improving real-world generalization.
 
 + [Apache IoTDB](https://github.com/apache/iotdb): MemTable and Consensus Optimization  
