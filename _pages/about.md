@@ -12,17 +12,19 @@ redirect_from:
 I also go by `Carl Zhang` (nickname: `LittleHealth`).
 
 # About me
-I am a Ph.D. candidate in the [School of Software Engineering](https://www.thss.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/). Prior to that, I completed my M.S. and B.S. in the School of Software Engineering at Tsinghua University.
+I am a second-year Ph.D. candidate in the [School of Software Engineering](https://www.thss.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Shaoxu Song](https://sxsong.github.io/) and Prof. [Jianmin Wang](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm). Prior to that, I completed my M.S. and B.S. in the School of Software Engineering at Tsinghua University.
 
-My research focuses on: (1) time series database, (2) distributed storage/consensus, and (3) data science agents.
+My research focuses on: (1) time series database, (2) distributed storage/consensus, (3) data science agents and (4) time series model distillation.
 
 ## Publications
 + Xiaojian Zhang, Zhiheng Liu, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang: [Deferred Flushing for Out-of-Order Arrivals in
-Apache IoTDB.]() ICDE 2026 (To appear)
+Apache IoTDB.](https://icde2026.github.io/accepted-papers.html) ICDE 2026
 + Xiaojian Zhang, Xinyu Tan, Shaoxu Song, Xiangdong Huang, Jianmin Wang:
 [LSM-Raft: Optimizing Raft for LSM-tree Store.](https://dl.acm.org/doi/10.1145/3769805) Proc. ACM Manag. Data 3(6): 1-27 (2025)
 + Xiaojian Zhang, Hongyin Zhang, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang:
 [Backward-Sort for Time Series in Apache IoTDB.](https://doi.org/10.1109/ICDE55515.2023.00245) ICDE 2023: 3196-3208
+
++ Two papers to be appeared.
 
 ## Experience
 
@@ -32,8 +34,8 @@ Apache IoTDB.]() ICDE 2026 (To appear)
 + [Definite Capital Management](https://zding.fund/about), Researcher Intern, Feb 2022 - Jun 2022
   + Simplified high-frequency quantitative trading factor computation and refactored the streaming computation framework, improving long-term real-time performance in production.
 
-+ [Huaxiaozhu Strategy Department, DiDi Global Inc.](https://www.didiglobal.com/), Algorithm Engineer Intern, Jun 2021 - Sep 2021 
-  + Implemented a causal multi-treatment uplift random forest, achieving ~15% ROI improvement.
+<!-- + [Huaxiaozhu Strategy Department, DiDi Global Inc.](https://www.didiglobal.com/), Algorithm Engineer Intern, Jun 2021 - Sep 2021 
+  + Implemented a causal multi-treatment uplift random forest, achieving ~15% ROI improvement.-->
 
 ## Projects
 
@@ -44,10 +46,12 @@ Apache IoTDB.]() ICDE 2026 (To appear)
   + **MemTable:** Proposed *Backward-Sort* and *Deferred Flushing* to reduce write amplification from out-of-order writes.  
   + **Consensus:** Proposed *LSM-Raft*, a generalized Raft protocol for LSM-tree engines, minimizing redundant compaction and state transfer.
 
+<!--
 ## Leadership
 
 + **Chair of Graduate Student Union, School of Software**, June 2022 - June 2023
   + Resolved long-standing issues (e.g., parking shed renovation in East Building).  
   + Led teams to awards including Outstanding Graduate Student Union and Five-Star Ph.D. Forum.
+-->
 
 
