@@ -32,7 +32,8 @@ Apache IoTDB.](https://icde2026.github.io/accepted-papers.html) ICDE 2026
   + Advised by [Rong Zhu](https://redgitcard.github.io/redgitcard/); studied NL2SQL data analysis challenges in large-scale schemas, exploring efficient schema compression and semantic representation. -->
 
 + [Definite Capital Management](https://zding.fund/about), Researcher Intern, Feb 2022 - Jun 2022
-  + Simplified high-frequency quantitative trading factor computation and refactored the streaming computation framework, improving long-term real-time performance in production.
+
+Simplified high-frequency quantitative trading factor computation and refactored the streaming computation framework, improving long-term real-time performance in production.
 
 <!-- + [Huaxiaozhu Strategy Department, DiDi Global Inc.](https://www.didiglobal.com/), Algorithm Engineer Intern, Jun 2021 - Sep 2021 
   + Implemented a causal multi-treatment uplift random forest, achieving ~15% ROI improvement.-->
@@ -40,11 +41,14 @@ Apache IoTDB.](https://icde2026.github.io/accepted-papers.html) ICDE 2026
 ## Projects
 
 + [AgentScope](https://github.com/agentscope-ai/agentscope-samples/pull/110): Data Profiling
-  + Designed an LLM-oriented data profiling framework that transforms heterogeneous data into agent-consumable schemas, improving real-world generalization.
+
+Designed an LLM-oriented data profiling framework that transforms heterogeneous data into agent-consumable schemas, improving real-world generalization.
 
 + [Apache IoTDB](https://github.com/apache/iotdb): MemTable and Consensus Optimization  
-  + **MemTable:** Proposed *Backward-Sort* and *Deferred Flushing* to reduce write amplification from out-of-order writes.  
-  + **Consensus:** Proposed *LSM-Raft*, a generalized Raft protocol for LSM-tree engines, minimizing redundant compaction and state transfer.
+
+**MemTable:** Proposed *Backward-Sort* and *Deferred Flushing* to reduce write amplification from out-of-order writes.  
+
+**Consensus:** Proposed *LSM-Raft*, a generalized Raft protocol for LSM-tree engines, minimizing redundant compaction and state transfer.
 
 <!--
 ## Leadership
