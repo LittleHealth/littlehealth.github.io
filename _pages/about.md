@@ -18,7 +18,7 @@ My research focuses on: (1) time series database, (2) distributed storage/consen
 
 ## Publications
 + Xiaojian Zhang, Zhiheng Liu, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang: [Deferred Flushing for Out-of-Order Arrivals in
-Apache IoTDB.](https://icde2026.github.io/accepted-papers.html) ICDE 2026
+Apache IoTDB.](https://doi.ieeecomputersociety.org/10.1109/ICDE65706.2026.00067) ICDE 2026
 + Xiaojian Zhang, Xinyu Tan, Shaoxu Song, Xiangdong Huang, Jianmin Wang:
 [LSM-Raft: Optimizing Raft for LSM-tree Store.](https://dl.acm.org/doi/10.1145/3769805) Proc. ACM Manag. Data 3(6): 1-27 (2025)
 + Xiaojian Zhang, Hongyin Zhang, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang:
